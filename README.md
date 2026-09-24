@@ -8,6 +8,7 @@ Feels free to contact us to report an issue or request a new svg. We are happy t
 
 DISCORD (fastest response) 
 Dm @obamamegagon or @wizuem
+
 Or join discord.gg.potatougb
 
 EMAIL
